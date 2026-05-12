@@ -1,0 +1,73 @@
+
+.btn {
+    border-color: #0CF;
+    background-color: #07F;
+    color:white;
+}
+
+.btn:hover {
+    border-color: #07F;
+    background-color: #0CF;
+    color: black;
+}
+
+.navbar-custom {
+    background-color: #000; /* Fond noir */
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: white; /* Liens blancs */
+}
+.navbar-custom .navbar-brand {
+    color: white; /* Marque blanche */
+}
+
+span.navbar-toggler-icon {
+    background-color: #FFF;
+}
+
+.aquestion{
+    display: block;
+    text-decoration: none;
+    color: black;
+	background-color: #0D6EFD;
+    border: 4px solid black;
+    padding: 50px 0px;
+	width:500px;
+	text-align: center;
+	font-size: 22px;
+	border-radius: 50px;
+}
+.aquestion:hover{
+    background-color:#0B5ED7;
+}
+.div-index{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.eco-title{
+    margin-top: 5%;
+    color :white;
+
+}  
+.eco-info{
+    margin-bottom: 20%;
+}
+.eco-background{
+    background-image:url("../image/2018-12-02-17-10-35-1152x921.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.QuestionnaireBackground{
+	background-image:url("../image/Lisieux.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
