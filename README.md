@@ -1,4 +1,4 @@
-🇫🇷
+Google (Noto Color Emoji 17.0)
 Ce site a été réalisé dans le cadre d'un projet collaboratif entre 4 étudiants (SAE 4,5,6) en première année de But Informatique. 
 Il a été réalisé en 1 jour, dans le but de faire un site sur la transition écologique pour une agglomération de communes.
 Voici le lien du site :
